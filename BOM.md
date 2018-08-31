@@ -1,4 +1,6 @@
-Edit this file to add a bill of materials
+get the details here:
+
+http://www.disciplesofcnc.com/iwantmaslowbrains/
 
 You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
 
