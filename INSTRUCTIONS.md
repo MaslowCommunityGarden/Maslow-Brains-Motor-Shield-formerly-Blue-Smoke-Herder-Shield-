@@ -14,8 +14,8 @@ Current Limiting R2:  1.0KQBK-ND              1        R2 <br>
 Capacitors 100uF      399-6650-1-ND           3        C1, C3, C5 <br>
 Capacitors 1uF        BC1168CT-ND             2        C7,8 <br>
 Capacitors 0.1uF      BC1101CT-ND             3        C2, C4, C6 <br>
-#4-40 x 1/4" Panhead Nylon machine screws     3        For heat sinks <br>
-#4-40 nylon nuts                              3        For heat sinks <br>
+4-40 x 1/4" Panhead Nylon machine screws     3        For heat sinks <br>
+4-40 nylon nuts                              3        For heat sinks <br>
 2x3 .1" header:       609-3218-ND             1        12v Fan Header <br>
 <br>
 <br>
