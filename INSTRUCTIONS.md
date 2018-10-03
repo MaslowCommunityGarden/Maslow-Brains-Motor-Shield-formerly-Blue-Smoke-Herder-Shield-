@@ -23,7 +23,8 @@ Capacitors 0.1uF      BC1101CT-ND             3        C2, C4, C6 <br>
 <br>
 </Pre>
 
-
+The Manual:
+https://www.evernote.com/client/snv?noteGuid=b94f3758-31ae-4476-9fb4-017b951513d0&noteKey=56343f13da608b45&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2Fb94f3758-31ae-4476-9fb4-017b951513d0%2F56343f13da608b45&exp=ENB3538
 
 
 Edit this file to add assembly instructions
